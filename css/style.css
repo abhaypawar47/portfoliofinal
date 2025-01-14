@@ -5,26 +5,26 @@
 #navbar {
     font-family: Roboto, sans-serif;
     background-size: cover;
-    background-color: rgba(216, 213, 203, 0.65);
+    background-color: rgba(39, 222, 36, 0.65);
     padding: 15px 20px;
     transition: all 0.5s ease;
 }
 
 #nav-logo {
     font-size: 24px;
-    color: #000000;
+    color: #f9f7f7;
     text-transform: uppercase;
     font-weight: bolder;
 }
 
 .sticky {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(236, 227, 227, 0.8) !important;
     padding: 8px 20px !important;
 }
 
 .nav-custom-link {
     font-weight: bold;
-    color: #000000 !important;
+    color: #fefefe !important;
     text-transform: uppercase;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .color-white {
-    color: #FFFFFF !important;
+    color: rgb(255, 255, 255) !important;
 }
 
 .nav-btn-icon {
@@ -66,7 +66,7 @@
 /* SECTION NO 1 */
 
 .section-1 {
-    background-color: #F2F2F2;
+    background-color: #147533;
     height: 450px;
     padding: 0px;
 }
@@ -81,7 +81,7 @@
     background-image: url(../images/profile-image.png);
     background-position: center;
     background-size: cover;
-    border: 8px solid #FFFFFF;
+    border: 8px solid hsl(0, 100%, 98%);
     border-radius: 50%;
     position: absolute;
     top: 110px;
